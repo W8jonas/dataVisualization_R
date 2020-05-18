@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589765620509.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2994116132",
+    "id" : "50D807B1",
+    "lastKnownWriteTime" : 1589767980,
+    "last_content_update" : 1589767980302,
+    "path" : "C:/Users/w8jonas/Desktop/Projeto de Extensao/R/GitHub/Introduction_to_R.R",
+    "project_path" : "Introduction_to_R.R",
+    "properties" : {
+        "cursorPosition" : "18,47",
+        "scrollLine" : "8"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

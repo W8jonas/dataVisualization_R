@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589765970747.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A9B34CD2",
+    "lastKnownWriteTime" : 1589765945,
+    "last_content_update" : 1589765970747,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "55A45B09",
+        "caption" : "carros_usados",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=carros_usados&cache_key=55A45B09",
+        "displayedObservations" : "150",
+        "environment" : "",
+        "expression" : "carros_usados",
+        "object" : "carros_usados",
+        "preview" : "0",
+        "totalObservations" : "150",
+        "variables" : "6"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
