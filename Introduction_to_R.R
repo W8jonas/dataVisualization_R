@@ -24,3 +24,11 @@ carros_usados %>% select(year, price, mileage) %>% filter(year>2008 & mileage<10
 # organizado em ordem crescente de milhagem 
 carros_usados %>% select(year, price, mileage) %>%  filter(year>2008 & mileage<10000) %>% arrange(mileage<10000)
 
+
+roll2 <- function(bones = 16:9) {
+  dice <- sample(bones)
+  sum(dice)
+}
+
+
+roll2(carros_usados)
